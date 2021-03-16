@@ -1,0 +1,248 @@
+Bank Code;Country Code;Bank Name
+30300;LT;AB Lietuvos pastas;
+40100;LT;Luminor Bank AS Lithuania branch;
+21400;LT;Luminor Bank AS Lithuania branch;
+34900;LT;Ambr Payments UAB;
+34200;LT;Banxe, UAB;
+20900;LT;Bigbank AS Branch;
+31300;LT;UAB ZEN.COM;
+34100;LT;CBI Money UAB;
+70500;LT;AB Siauliu bankas;AB Siauliu bankas (former AB bankas "Finasta")
+71800;LT;AB Siauliu bankas;
+71802;LT;AB Siauliu bankas;AB Siauliu bankas Kelme client service center
+71803;LT;AB Siauliu bankas;AB Siauliu bankas Vilnius branch
+71804;LT;AB Siauliu bankas;AB Siauliu bankas Kursenai client service center
+71805;LT;AB Siauliu bankas;AB Siauliu bankas Klaipeda branch
+71806;LT;AB Siauliu bankas;AB Siauliu bankas Palanga client service center
+71807;LT;AB Siauliu bankas;AB Siauliu bankas Siluteclient service center
+71808;LT;AB Siauliu bankas;AB Siauliu bankas Mazeikiai client service center
+71809;LT;AB Siauliu bankas;AB Siauliu bankas Kaunas branch
+71810;LT;AB Siauliu bankas;AB Siauliu bankas Vilkaviskis client service center
+71811;LT;AB Siauliu bankas;AB Siauliu bankas Utena client service center
+71812;LT;AB Siauliu bankas;AB Siauliu bankas Alytus client service center
+71813;LT;AB Siauliu bankas;AB Siauliu bankas Taurage client service center
+71814;LT;AB Siauliu bankas;AB Siauliu bankas Radviliskis client service center
+71815;LT;AB Siauliu bankas;AB Siauliu bankas Panevezys client service center
+71816;LT;AB Siauliu bankas;AB Siauliu bankas Birstonas client service center
+71817;LT;AB Siauliu bankas;AB Siauliu bankas Telsiai client service center
+71818;LT;AB Siauliu bankas;AB Siauliu bankas Marijampole client service center
+71819;LT;AB Siauliu bankas;AB Siauliu bankas Druskininkai client service center
+71820;LT;AB Siauliu bankas;AB Siauliu bankas Plunge client service center
+71821;LT;AB Siauliu bankas;AB Siauliu bankas Anyksciai client service center
+71822;LT;AB Siauliu bankas;AB Siauliu bankas Visaginas client service center
+71823;LT;AB Siauliu bankas;AB Siauliu bankas Kedainiai client service center
+71824;LT;AB Siauliu bankas;AB Siauliu bankas Ukmerge client service center
+71825;LT;AB Siauliu bankas;AB Siauliu bankas Birzai client service center
+71826;LT;AB Siauliu bankas;AB Siauliu bankas Jonava client service center
+71827;LT;AB Siauliu bankas;AB Siauliu bankas Zarasai client service center
+71828;LT;AB Siauliu bankas;AB Siauliu bankas Rokiskis client service center
+71829;LT;AB Siauliu bankas;AB Siauliu bankas Kupiskis client service center
+71830;LT;AB Siauliu bankas;AB Siauliu bankas Raseiniai client service center
+71899;LT;AB Siauliu bankas;AB Siauliu bankas Head office
+70440;LT;AB SEB bankas;
+34700;LT;Clearshift, UAB;
+37400;LT;UAB "ConnectPay";
+51700;LT;Credit union „Saulegraza“;
+39804;LT;UAB Corporate Services;
+90577;LT;Nasdaq CSD SE Lithuania branch;
+39806;LT;Demivolt, UAB;
+32700;LT;UAB "DSBC Financial Europe";
+37000;LT;UAB Elektroniniu mokejimu agentura;
+32800;LT;Earthport Payment Services UAB;
+33500;LT;UAB "epayblock";
+71100;LT;European Merchant Bank;
+35000;LT; "Paysera LT", UAB  ;
+22500;LT;AB "Fjord Bank" ;
+38500;LT;Galperin, UAB;
+37200;LT;UAB „Glocash Payment“;
+38800;LT;GlobalNetint, UAB;
+60024;LT;GF bankas, UAB  ;
+34000;LT;UAB Guru Pay;
+73000;LT; "Swedbank", AB;
+21200;LT;Svenska Handelsbanken AB Lithuania branch;
+39100;LT;UAB  "IBS Lithuania ";
+72900;LT;AB "Citadele" bankas;
+36400;LT;UAB International Fintech;
+50200;LT;Jungtine centrine kredito unija;
+50109;LT;Akademine credit union;
+50114;LT;Credit union "Kupiskenu taupa";
+50117;LT;Credit union Zanavyku bankelis;
+50121;LT;Aukstaitijos credit union;
+50126;LT;Birzu credit union;
+50129;LT;Silales credit union;
+50139;LT;Raseiniu credit union;
+50144;LT;Ignalinos credit union;
+50147;LT;Joniskio credit union;
+50162;LT;Pareigunu credit union;
+50164;LT;Gyventoju ir smulkaus verslo credit union;
+50500;LT;Credit union "Taupa";
+32900;LT;Kuan Financial, UAB ;
+51400;LT;Credit union "Magnus";
+50300;LT;AB "Mano bankas";
+50301;LT;AB "Mano bankas";
+50100;LT;Lithuanian Central Credit Union ;
+50101;LT;Credit union "Suduvos parama";
+50102;LT;Silutes credit union;
+50103;LT;Radviliskio credit union;
+50104;LT;Vilkaviskio credit union;
+50105;LT;Plunges credit union;
+50106;LT;Credit union "Ebitum";
+50108;LT;ARKU kredito unija;
+50110;LT;Panevezio credit union;
+50111;LT;Centro credit union ;
+50112;LT;Credit union "Tikroji viltis";
+50113;LT;Credit union "Germanto lobis";
+50115;LT;Sirvintu credit union;
+50118;LT;Vytauto Dodziojo credit union;
+50119;LT;Pakruojo ukininku credit union;
+50120;LT;Credit union "Vievio taupa";
+50122;LT;Kelmes credit union;
+50123;LT;Credit union "Prienu taupa";
+50124;LT;Pasvalio credit union;
+50125;LT;Credit union "DELTA";
+50127;LT;Kauno credit union;
+50128;LT;Taurages credit union;
+50130;LT;Anyksciu credit union;
+50131;LT;"Achemos" credit union;
+50132;LT;Credit union "Jonavos zeme";
+50133;LT;Jurbarko credit union;
+50134;LT;Ukmerges Ukininku credit union;
+50135;LT;Kauno District credit union;
+50136;LT;Palangos credit union;
+50138;LT;Kretingos credit union;
+50140;LT;Pagegiu credit union;
+50142;LT;Grinkiskio credit union;
+50145;LT;Utenos credit union;
+50146;LT;Mazeikiu credit union;
+50149;LT;Druskininku credit union;
+50151;LT;Traku credit union;
+50152;LT;Alytaus credit union;
+50153;LT;Credit union "Gargzdu taupa";
+50154;LT;Credit union "Memelio taupomoji kasa";
+50156;LT;Grigiskiu credit union;
+50158;LT;Varenos credit union;
+50159;LT;Kedainiu krasto credit union;
+50163;LT;Klaipedos credit union;
+50165;LT;Seimos  credit union;
+50166;LT; Credit union "Neris";
+50167;LT;Vilniaus credit union;
+50168;LT;Credit union "Magnus";
+10100;LT;Bank of Lithuania;
+10101;LT;Bank of Lithuania;Bank of Lithuania Kaunas branch
+10110;LT;Bank of Lithuania;Payment Systems Department
+10900;LT;Bank of Lithuania;Payment Systems Department
+51500;LT;LTL  credit union;
+37300;LT;Majestic Financial, UAB;
+72300;LT;UAB Medicinos bankas;
+35100;LT;„Secure Nordic Payments“ UAB;
+31100;LT;Maneuver LT, UAB;
+35800;LT;Bruc Bond, UAB;
+30500;LT;Foxpay, UAB ;
+21700;LT;AS "Industra Bank" Lietuvos Branch;
+30800;LT;NexPay UAB;
+34600;LT;Nikulipe UAB ;
+39805;LT;Okeo Payments UAB;
+21500;LT;„OP Corporate Bank plc" Lietuvos Branch;
+33800;LT;Opal Transfer EU, UAB;
+38700;LT;UAB "PanPay Europe";
+34300;LT;UAB Paystra;
+31400;LT;PCS Transfer UAB;
+30200;LT;Perlas Finance, UAB;
+22600;LT;PayRay, UAB;
+70700;LT;Revolut Bank, UAB;
+39200;LT;Revolut Limited;
+32500;LT;Revolut Payments UAB;
+37101;LT;UAB  "Seven Seas Europe";
+37100;LT;UAB  "Seven Seas Europe";
+31700;LT;UAB  "Shift Financial Services LT"  ;
+74000;LT;Danske Bank A/S Lietuvos Branch;
+33200;LT;UAB "SONECT Europe";
+91002;LT;Macte Invest FM AB;
+30600;LT;SatchelPay, UAB;
+33700;LT;SumUp EU Payments, UAB;
+31801;LT;TBF Finance, UAB;
+31800;LT;TBF Finance, UAB;
+31900;LT;TeslaPay, UAB;
+39700;LT;SIA Transact Pro;
+36900;LT;TRUSTCOM FINANCIAL UAB;
+32400;LT;TransferGo Lithuania UAB;
+37800;LT;Transactive Systems UAB;
+35400;LT;UAB "Argentum mobile";
+39802;LT;Bebawa UAB;
+31000;LT;UAB Contabilita;
+36600;LT;UAB “deVere E-Money”;
+31500;LT;UAB "Drauskaita";
+35900;LT;UAB NIUM EU;
+39801;LT;UAB Lock Trust;
+36000;LT;UAB "Mobilieji mokejimai";
+35200;LT;"Neo Finance", UAB;
+34500;LT;UAB Nandi Finance;
+39808;LT;"NovaPay", UAB;
+39809;LT;UAB "PayrNet";
+35500;LT;UAB "Pervesk";
+35501;LT;UAB „Pervesk“;
+36700;LT;UAB Pyrros Lithuania;
+32200;LT;UAB Phoenix Payments;
+31200;LT;UAB Paytend Europe ;
+35300;LT;UAB "Alternative Payments";
+33300;LT;UAB "Silvergate LT";
+34800;LT;UAB Travel Union;
+33400;LT;UAB "Uplata EU";
+30900;LT;UAB „Walletto“;
+91001;LT;Orion Securities, UAB FMI;
+39600;LT;Contis Financial Services Ltd;
+35600;LT;UAB Finolita Unio ;
+32300;LT;International Payment Union, UAB ;
+38900;LT;UAB SAFU.COM;
+32600;LT;Rebellion Fintech Services UAB;
+33900;LT;UAB Simplex Payment Services;
+30700;LT;Valyuz, UAB;
+37500;LT;Verified Payments, UAB;
+50800;LT;Vilniaus  credit union;
+35700;LT;Via Payments, UAB;
+31600;LT;Verse Payments Lithuania UAB;
+51900;LT;Rato credit union;
+50160;LT;Rato credit union;
+33100;LT;ValorPay UAB;
+32000;LT;Wallter UAB;
+33000;LT;Wittix, UAB;
+42;EE;Coop Pank aktsiaselts;
+96;EE;Luminor Bank AS;
+17;EE;Luminor Bank AS;
+77;EE;AS LHV Pank;
+10;EE;AS SEB Pank;
+75;EE;Bigbank AS;
+16;EE;Eesti Pank;
+22;EE;Swedbank AS;
+00;EE;TALLINNA ÄRIPANGA AS;
+12;EE;AS Citadele banka Eesti filiaal;
+51;EE;OP Corporate Bank plc Eesti filiaal;
+00;EE;TALLINNA ÄRIPANGA AS;
+AIZK;LV;ABLV BANK, AS;
+RIKO;LV;AS DNB BANKA;
+LATC;LV;AS EXPOBANK;
+MULT;LV;AS MERIDIAN TRADE BANK;
+PRTT;LV;AS ‘PRIVATBANK’;
+BLIB;LV;BALTIC INTERNATIONAL BANK;
+CBBR;LV;BALTIKUMS BANK AS;
+LLBB;LV;BANK M2M EUROPE AS;
+LACB;LV;BANK OF LATVIA;
+MARA;LV;DANSKE BANK A/S,LATVIJA BRANCH;
+MOSB;LV;EESTI KREDIIDIPANK LATVIJAS FILIALE;
+FRDL;LV;FIRST DATA LATVIA;
+PARX;LV;JSC CITADELE BANKA;
+LCDE;LV;LATVIAN CENTRAL DEPOSITORY,THE;
+LAPB;LV;LATVIJAS PASTA BANKA;
+LLST;LV;LLC STREAMPAY;
+NDEA;LV;NORDEA BANK AB LATVIA BRANCH (FORMERLY NORDEA BANK FINLAND PLC LATVIA BRANCH);
+LATB;LV;NORVIK BANKA, JSC;
+OKOY;LV;POHJOLA BANK PLC LATVIAN BRANCH;
+RIBR;LV;REGIONALA INVESTICIJU BANKA;
+RTMB;LV;RIETUMU BANKA;
+RGNS;LV;RIGENSIS BANK AS;
+UNLA;LV;SEB BANKA;
+TPRO;LV;SIA TRANSACT PRO;
+HAND;LV;SVENSKA HANDELSBANKEN AB LATVIAN BRANCH;
+HABA;LV;SWEDBANK AS;
+KBRB;LV;TRASTA KOMERCBANKA;
+TREL;LV;TREASURY OF THE REPUBLIC OF LATVIA, THE;
