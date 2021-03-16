@@ -17,12 +17,18 @@ to run the service on Your computer use command in CMD or BASH:
 **./gradlew bootRun** from ibanverificationservice2 folder after source code was cloned or downloaded and extracted.
 
 Example requests after service is running:
-  
+
+    
   - **How to make POST request with file**
+  
+    *** http://localhost:8082/ibanfile/v1/process ***
+  
   
     ![example process request screenshot](https://github.com/valdemarcz/ibanverificationservice2/blob/master/RequestWithFile.png?raw=true)
   
   - **How to make GET request with result URLs to files**
+
+    *** http://localhost:8082/ibanfile/v1/files/ ***
 
     ![example files request screenshot](https://github.com/valdemarcz/ibanverificationservice2/blob/master/ResponseExample.png?raw=true)
 
@@ -40,6 +46,6 @@ Example requests after service is running:
 
   - validates IBAN as per ISO/IEC 7064, IBAN lengts and it's country code.
   - recognizes most bank codes of Lithuanian, Estonian and Latvian banks.
-    - which exactly banks are recognized can be checked in banknameslit.txt file
+    - which banks are recognized can be checked in banknameslit.txt file.
 
 ***IBANs in second file are not validated, only bank name is specified if it exists in IBAN code***
