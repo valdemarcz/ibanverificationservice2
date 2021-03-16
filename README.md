@@ -12,15 +12,23 @@
 
 Service is configured to run on 8082 port by default.
 
-to run the service on Your computer use command in CMD or BASH:
-**./gradlew bootRun** from ibanverificationservice1 folder after spurce code was cloned or downloaded and extracted.
+to run the service on Your computer use command in CMD or BASH: 
+
+**./gradlew bootRun** from ibanverificationservice2 folder after source code was cloned or downloaded and extracted.
 
 Example requests after service is running:
+  
   - **How to make POST request with file**
-  ![example process request screenshot](https://github.com/valdemarcz/ibanverificationservice2/blob/master/RequestWithFile.png?raw=true)
+  
+    ![example process request screenshot](https://github.com/valdemarcz/ibanverificationservice2/blob/master/RequestWithFile.png?raw=true)
+  
   - **How to make GET request with result URLs to files**
-  ![example files request screenshot](https://github.com/valdemarcz/ibanverificationservice2/blob/master/ResponseExample.png?raw=true)
+
+    ![example files request screenshot](https://github.com/valdemarcz/ibanverificationservice2/blob/master/ResponseExample.png?raw=true)
+
+
 ***Request can be made with the help of Postman***
+
 ***To download any generated file for tests copy received url in browser, file will be downloaded automatically***
 
 ### As a result of banfile/v1/process POST request service generates 2 files:
